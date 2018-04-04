@@ -1,0 +1,2 @@
+This line will not cause a merge conflict. Insert a new line on top of this line on branch modification. 
+This line will - change it to this won't cause a merge conflict anymore on branch modification
